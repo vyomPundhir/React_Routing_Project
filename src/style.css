@@ -1,0 +1,9 @@
+.bg-image{
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-image: url(./Assets/Autum.jpg);
+  /* filter: brightness(50%); */
+  background-color: rgb(93, 93, 93);
+  background-blend-mode: multiply;
+}
