@@ -1,13 +1,17 @@
 import React from "react";
 import Navbar from "./Navbar";
-import Hero from "./Herosection";
-// import Cardsection from "./Cardsection";
+
+import Cardsection from "./Cardsection";
+import Footer from "./Footer";
+import { Outlet } from "react-router-dom";
+
 const App = () =>{
   return(
     <>
       <Navbar />
-      <Hero />
-      {/* <Cardsection /> */}
+      <Outlet />
+      <Cardsection />
+      <Footer />
     </>
   )
 }
