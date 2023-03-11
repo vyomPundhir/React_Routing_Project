@@ -4,7 +4,9 @@
 
 ## Project Screenshot
 
-> ![SS](./ss-of-the-project.png)
+> ![SS](./ss-of-the-project-1.png)
+> ![SS](./ss-of-the-project-2.png)
+> ![SS](./ss-of-the-project-3.png)
 
 ---
 
